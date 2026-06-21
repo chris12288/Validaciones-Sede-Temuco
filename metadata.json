@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Validación de Certificados INACAP Temuco",
+  "description": "Portal oficial para la verificación y validación de autenticidad de certificados académicos emitidos por INACAP, sede Temuco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
